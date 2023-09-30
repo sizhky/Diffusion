@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "diffusion"
+  site-url: "https://sizhky.github.io/diffusion"
+  description: "Diffusion from scratch"
+  repo-branch: dev
+  repo-url: "https://github.com/sizhky/diffusion"
